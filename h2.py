@@ -1,4 +1,4 @@
-a=int(input())
+
 #a
 bhav=input()
 yak=map(int,input().split())
@@ -10,4 +10,4 @@ fine=sorted(sin)
 fine.reverse()
 for j in fine:
     print(int(j,2))
-otp
+
